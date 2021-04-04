@@ -6,9 +6,8 @@ Music - Supported sources
 <html>
    <body style="background-color: darkgrey">
    
-      <p>Here's is the list of all the supported sites, ordered alphabetically:</p>
+     <Here's is the list of all the supported sites, ordered alphabetically:
 
-<p>1tv: &#1055;&#1077;&#1088;&#1074;&#1099;&#1081; &#1082;&#1072;&#1085;&#1072;&#1083;<br />
 1up.com<br />
 20min<br />
 220.ro<br />
